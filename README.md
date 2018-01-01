@@ -6,3 +6,5 @@ Slate in use:
 ![Slate](https://cloud.githubusercontent.com/assets/416727/17308540/72c4b6ce-57ef-11e6-9f68-12f6327edfde.png)
 
 Slate is available under the MIT license.
+
+OK.
